@@ -15,7 +15,7 @@ profile:
 
 ---
 
-Welcome to the homepage of the Neuroimaging in Intelligent Medicine Group (NIMG) at Nanjing University of Science and Technology. Our members are affiliated with the Key Laboratory of Intelligent Perception and Systems for High-Dimensional Information, a Ministry of Education institution, as well as the School of Computer Science and Engineering at Nanjing University of Science and Technology.
+Welcome to the homepage of the Neuroimaging in Intelligent Medicine Group (NIMG) at Nanjing University of Science and Technology. Our members are affiliated with the Key Laboratory of Intelligent Perception and Systems for High-Dimensional Information, a Ministry of Education institution, as well as [the School of Computer Science and Engineering](https://cs.njust.edu.cn/){: target="_blank"} at [Nanjing University of Science and Technology](https://www.njust.edu.cn/){: target="_blank"}.
 
 欢迎访问南京理工大学智能医学神经影像研究组（NIMG）主页。我们的成员隶属于教育部高维信息智能感知与系统重点实验室及南京理工大学计算机科学与工程学院。
 
