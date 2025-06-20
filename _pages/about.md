@@ -6,7 +6,7 @@ subtitle: <a href='#'>Nanjing University of Science and Technology</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: nimg.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>200 Xiaolingwei Street, Xuanwu District</p>
