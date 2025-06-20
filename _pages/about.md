@@ -8,10 +8,10 @@ profile:
   align: right
   image: nimg.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>200 Xiaolingwei Street, Xuanwu District</p>
-    <p>Nanjing University of Science and Technology</p>
-    <p>Nanjing, China 210094</p>
+  address: >
+        Xiaolingwei Street, Xuanwu District<br />
+        Nanjing University of Science and Technology<br />
+        Nanjing, China 210094
 
 ---
 
