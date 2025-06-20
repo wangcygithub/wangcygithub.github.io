@@ -9,6 +9,11 @@ nav_order: 6
 
 # Projects
 
+<div id="dfo" class="project-container" style="margin-top: 0px">
+  <img src="{{ site.baseurl }}/assets/img/seasons4.jpg" alt="Background image for Making Decisions for Other People. Two inversed mountains in front of a starry blue sky." title="Photo by Mark Basarab on Unsplash." style="width: 100%;">
+  <div class="project-title" style="color: #000000">Neuro-AI Integrated Diagnostic and Interventional Platform (NAIDIP)</div>
+</div>
+
 ### **Neuro-AI Integrated Diagnostic and Interventional Platform (NAIDIP)**
 
 The Neuro-AI Integrated Diagnostic and Interventional Platform (NAIDIP) revolutionizes neurological healthcare by integrating edge AI computing, multimodal neuroimaging, and AI-driven clinical decision support with traditional Chinese medicine (TCM). Designed for precision diagnostics, disease prediction, and personalized interventions, NAIDIP addresses the need for accessible, low-cost solutions in modern medicine.
