@@ -51,3 +51,22 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+.project-title {
+    font-size: 46px;
+    font-weight: bold;
+    position: absolute;
+    line-height: 0.94;
+    top: 50%;
+    left: 50%;
+    width: 60%;
+    letter-spacing: -0.04em;
+    transform: translate(-50%, -50%);
+}
+
+.project-container {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
