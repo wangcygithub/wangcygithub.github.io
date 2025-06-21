@@ -10,7 +10,7 @@ nav_order: 6
 # Projects
 
 <div id="dfo" class="project-container" style="margin-top: 0px">
-  <img src="{{ site.baseurl }}/assets/img/seasons4.jpg" alt="Background image for Making Decisions for Other People. Two inversed mountains in front of a starry blue sky." title="Photo by Mark Basarab on Unsplash." style="width: 30%;">
+  <img src="{{ site.baseurl }}/assets/img/seasons4.jpg" alt="Background image for Making Decisions for Other People. Two inversed mountains in front of a starry blue sky." title="Photo by Mark Basarab on Unsplash." style="width: 100%;">
   <div class="project-title" style="color: #000000">Neuro-AI Integrated Diagnostic and Interventional Platform (NAIDIP)</div>
 </div>
 
@@ -43,6 +43,8 @@ NAIDIP uniquely merges Western neurology with TCM:
 NAIDIP differentiates itself by integrating commercial solutions with the flexibility of open-source software. Its modular design supports rapid deployment and partnerships, while the open ecosystem (GitHub, community forums) accelerates innovation. Development phases include core platform integration (6–12 months), expansion of the AI-TCM module (12–24 months), and clinical validation (24–36+ months).
 
 NAIDIP redefines neurological care by enabling precision diagnostics, predictive analytics, and hybrid Western and Traditional Chinese Medicine (TCM) interventions. By democratizing advanced AI and neuroimaging through edge computing and open-source principles, it aims to improve outcomes globally, from urban hospitals to underserved regions.
+
+---
 
 ### 神经人工智能集成诊断与干预平台（NAIDIP）
 
@@ -83,6 +85,7 @@ NAIDIP 融合商业解决方案与开源软件灵活性，模块化架构支持�
 NAIDIP 通过精准诊断、预测分析及中西医结合干预，重新定义神经疾病照护模式。借助边缘计算与开源原则，平台致力于将先进 AI 与神经影像技术平民化，从城市医院到医疗资源匮乏地区，全面改善全球医疗。
 
 
+---
 
 ### Diffusion MRI based Virtual Biopsy
 
@@ -126,7 +129,7 @@ Overall, this project aims to create a robust theoretical and methodological fra
 
 整体而言，该项目致力于为脑内病变的无创监测建立坚实的理论与方法学框架。其核心意义在于通过更早、更精准的诊断与治疗，为患者带来显著临床获益。
 
-
+---
 
 ### Diffusion MRI-based targeted fingerprinting of circuit regulation in neurological diseases
 
