@@ -73,7 +73,7 @@ NAIDIP 通过精准诊断、预测分析及中西医结合干预，重新定义�
 
 ---
 <div id="dfo" class="project-container" style="margin-top: 0px">
-  <img src="{{ site.baseurl }}/assets/img/picture2.jpg" style="width: 100%;">
+  <img src="{{ site.baseurl }}/assets/img/pic03.jpg" style="width: 100%;">
   <div class="project-title" style="color: #FFDD00">Diffusion MRI based Virtual Biopsy</div>
 </div>
 ### **弥散磁共振虚拟活检成像**
