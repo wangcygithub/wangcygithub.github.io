@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 <div id="dfo" class="project-container" style="margin-top: 0px">
-  <img src="{{ site.baseurl }}/assets/img/pic4.jpg" alt="Background image for Making Decisions for Other People. Two inversed mountains in front of a starry blue sky." title="Photo by Mark Basarab on Unsplash." style="width: 100%;">
+  <img src="{{ site.baseurl }}/assets/img/pic4.jpg"  style="width: 100%;">
   <div class="project-title" style="color: #f26d04">Neuro-AI Integrated Diagnostic and Interventional Platform (NAIDIP)</div>
 </div>
 ### **神经人工智能集成诊断与干预平台（NAIDIP）**
