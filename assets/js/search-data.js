@@ -447,7 +447,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
+            },},{id: "news-boom-ye-wu-was-awarded-by-distinguished-professor-of-jiangsu-province",
+          title: ':boom: Ye Wu was awarded by Distinguished Professor of Jiangsu Province',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
