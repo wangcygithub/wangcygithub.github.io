@@ -9,16 +9,18 @@ nav_order: 6
 
 <div id="dfo" class="project-container" style="margin-top: 0px">
   <img src="{{ site.baseurl }}/assets/img/picture3.jpg" alt="Background image for Making Decisions for Other People. Two inversed mountains in front of a starry blue sky." title="Photo by Mark Basarab on Unsplash." style="width: 100%;">
-  <div class="project-title" style="color: #007cbe">Neuro-AI Integrated Diagnostic and Interventional Platform (NAIDIP)</div>
+  <div class="project-title" style="color: #E266AE">Neuro-AI Integrated Diagnostic and Interventional Platform (NAIDIP)</div>
 </div>
 ### **神经人工智能集成诊断与干预平台（NAIDIP）**
 
 **基于开源平台的技术整合**
+
 The Neuro-AI Integrated Diagnostic and Interventional Platform (NAIDIP) revolutionizes neurological healthcare by integrating edge AI computing, multimodal neuroimaging, and AI-driven clinical decision support with traditional Chinese medicine (TCM). Designed for precision diagnostics, disease prediction, and personalized interventions, NAIDIP addresses the need for accessible, low-cost solutions in modern medicine.
 
 神经人工智能集成诊断与干预平台（NAIDIP）通过融合边缘 AI 计算、多模态神经影像、AI 驱动临床决策支持与传统中医（TCM），彻底革新了神经疾病医疗模式。该平台专为精准诊断、疾病预测及个性化干预设计，致力于解决现代医学中对可及性、低成本解决方案的需求。
 
 **技术架构与分布式计算框架**
+
 NAIDIP utilizes a distributed computing framework with NVIDIA Jetson AGX Orin (275 TOPS AI performance) for high-intensity tasks, such as multimodal image fusion and deep learning inference, and Jetson Orin Nano (67 TOPS) for localized edge processing. Raspberry Pi acts as an ultra-low-power node for sensor integration (e.g., vital sign monitoring) in resource-constrained settings. This architecture ensures real-time analysis, data privacy (compliant with HIPAA), and scalability for remote or rural deployments.
 
 NAIDIP 采用分布式计算架构，该架构确保实时分析、数据隐私（符合 HIPAA 标准），并支持远程或农村地区的规模化部署：
@@ -117,7 +119,7 @@ Overall, this project aims to create a robust theoretical and methodological fra
 ---
 <div id="dfo" class="project-container" style="margin-top: 0px">
   <img src="{{ site.baseurl }}/assets/img/picture1.jpg" alt="Background image for Making Decisions for Other People. Two inversed mountains in front of a starry blue sky." title="Photo by Mark Basarab on Unsplash." style="width: 100%;">
-  <div class="project-title" style="color: #000000">Diffusion MRI-based targeted fingerprinting of circuit regulation in neurological diseases</div>
+  <div class="project-title" style="color: #007cbe">Diffusion MRI-based targeted fingerprinting of circuit regulation in neurological diseases</div>
 </div>
 ### **面向神经疾病环路调控的靶向指纹技术** 
 
