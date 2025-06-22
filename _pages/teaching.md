@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 <div id="dfo" class="project-container" style="margin-top: 0px">
-  <img src="{{ site.baseurl }}/assets/img/seasons01.jpg" alt="Background image for Making Decisions for Other People. Two inversed mountains in front of a starry blue sky." title="Photo by Mark Basarab on Unsplash." style="width: 100%;">
+  <img src="{{ site.baseurl }}/assets/img/sesasons01.jpg" alt="Background image for Making Decisions for Other People. Two inversed mountains in front of a starry blue sky." title="Photo by Mark Basarab on Unsplash." style="width: 100%;">
   <div class="project-title" style="color: #000000">Neuro-AI Integrated Diagnostic and Interventional Platform (NAIDIP)</div>
 </div>
 ### **神经人工智能集成诊断与干预平台（NAIDIP）**
@@ -71,10 +71,10 @@ NAIDIP 通过精准诊断、预测分析及中西医结合干预，重新定义�
 
 ---
 <div id="dfo" class="project-container" style="margin-top: 0px">
-  <img src="{{ site.baseurl }}/assets/img/seasons01.jpg" alt="Background image for Making Decisions for Other People. Two inversed mountains in front of a starry blue sky." title="Photo by Mark Basarab on Unsplash." style="width: 100%;">
+  <img src="{{ site.baseurl }}/assets/img/sesasons01.jpg" alt="Background image for Making Decisions for Other People. Two inversed mountains in front of a starry blue sky." title="Photo by Mark Basarab on Unsplash." style="width: 100%;">
   <div class="project-title" style="color: #000000">Diffusion MRI based Virtual Biopsy</div>
 </div>
-###**弥散磁共振虚拟活检成像**
+### **弥散磁共振虚拟活检成像**
 
 Virtual biopsy is an innovative non-invasive technique for analyzing the microenvironmental heterogeneity of the human brain, offering promising applications in clinical practice and societal impact. A key challenge in this field is accurately characterizing diffusion characteristics related to multi-scale tissue structures to develop non-invasive detection models that reflect pathological states.
 
@@ -116,7 +116,7 @@ Overall, this project aims to create a robust theoretical and methodological fra
 
 ---
 <div id="dfo" class="project-container" style="margin-top: 0px">
-  <img src="{{ site.baseurl }}/assets/img/seasons01.jpg" alt="Background image for Making Decisions for Other People. Two inversed mountains in front of a starry blue sky." title="Photo by Mark Basarab on Unsplash." style="width: 100%;">
+  <img src="{{ site.baseurl }}/assets/img/sesasons01.jpg" alt="Background image for Making Decisions for Other People. Two inversed mountains in front of a starry blue sky." title="Photo by Mark Basarab on Unsplash." style="width: 100%;">
   <div class="project-title" style="color: #000000">Diffusion MRI-based targeted fingerprinting of circuit regulation in neurological diseases</div>
 </div>
 ### **面向神经疾病环路调控的靶向指纹技术** 
