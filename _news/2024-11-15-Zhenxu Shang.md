@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- :boom: Zhenxu Shang joined us as `Research trainee`. Welcome! 
+ 👏 Zhenxu Shang joined us as **Research trainee**. Welcome!  
