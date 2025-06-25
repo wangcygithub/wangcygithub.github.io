@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- :sound: Ye Wu gave a talk at [Sun Yat-sen University]((https://www.sysu.edu.cn/sysuen/)){: target="_blank"}          
+ :sound: Ye Wu gave a talk at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/){: target="_blank"}          
