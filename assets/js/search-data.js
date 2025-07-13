@@ -657,7 +657,52 @@ ninja.data = [{
           section: "News",},{id: "news-three-papers-were-accepted-by-ismrm-workshop-on-40-years-of-diffusion",
           title: '🎊 Three papers were accepted by ISMRM Workshop on 40 Years of Diffusion...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-2025年度大学生创业孵化园创业项目入驻遴选路演",
+          title: '2025年度大学生创业孵化园创业项目入驻遴选路演',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/%E5%8F%82%E8%B5%9B%E7%85%A7-2025%E5%B9%B4%E5%BA%A6%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E4%B8%9A%E5%AD%B5%E5%8C%96%E5%9B%AD%E5%88%9B%E4%B8%9A%E9%A1%B9%E7%9B%AE%E5%85%A5%E9%A9%BB%E9%81%B4%E9%80%89%E8%B7%AF%E6%BC%94%E6%B4%BB%E5%8A%A8-%E7%AD%94%E8%BE%A9/";
+            },},{id: "projects-ieee-bibm大会",
+          title: 'IEEE BIBM大会',
+          description: "BIBM2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/%E5%BC%80%E4%BC%9A%E7%85%A7-%20BIBM2024/";
+            },},{id: "projects-医学人工智能与智慧医疗",
+          title: '医学人工智能与智慧医疗',
+          description: "BME2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/%E5%BC%80%E4%BC%9A%E7%85%A7-%20BME2024/";
+            },},{id: "projects-世界人工智能大会",
+          title: '世界人工智能大会',
+          description: "WAIC2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/%E5%BC%80%E4%BC%9A%E7%85%A7-%20WAIC2024/";
+            },},{id: "projects-视觉与学习青年学者研讨会",
+          title: '视觉与学习青年学者研讨会',
+          description: "VALSE2024",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/%E5%BC%80%E4%BC%9A%E7%85%A7-VALSE204_1/";
+            },},{id: "projects-聚会照1",
+          title: '聚会照1',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/%E8%81%9A%E4%BC%9A%E7%85%A71/";
+            },},{id: "projects-聚会照2",
+          title: '聚会照2',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/%E8%81%9A%E4%BC%9A%E7%85%A72/";
+            },},{id: "projects-聚会照3",
+          title: '聚会照3',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/%E8%81%9A%E4%BC%9A%E7%85%A73/";
+            },},{id: "projects-聚会照4",
+          title: '聚会照4',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/%E8%81%9A%E4%BC%9A%E7%85%A74/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
