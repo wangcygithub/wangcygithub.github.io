@@ -79,6 +79,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
+        },{id: "nav-photos",
+          title: "Photos",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/photos/";
+          },
         },{id: "post-neuroimage-基于图注意力网络的功能性动态大脑状态识别",
         
           title: "NeuroImage：基于图注意力网络的功能性动态大脑状态识别",
