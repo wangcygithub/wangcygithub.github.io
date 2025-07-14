@@ -7,6 +7,7 @@ nav: true
 nav_order: 11
 display_categories: [photos]
 horizontal: true
+related_publications: false
 ---
 
 <!-- pages/projects.md -->
