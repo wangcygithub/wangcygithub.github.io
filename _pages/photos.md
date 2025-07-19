@@ -25,7 +25,7 @@ related_publications: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-     {% include projects.liquid %}
+     {% include  projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
@@ -51,7 +51,7 @@ related_publications: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-      {% include projects.liquid %}
+      {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
