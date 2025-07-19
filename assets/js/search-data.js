@@ -657,12 +657,7 @@ ninja.data = [{
           section: "News",},{id: "news-three-papers-were-accepted-by-ismrm-workshop-on-40-years-of-diffusion",
           title: '🎊 Three papers were accepted by ISMRM Workshop on 40 Years of Diffusion...',
           description: "",
-          section: "News",},{id: "projects-参赛照-2025年度大学生创业孵化园创业项目入驻遴选路演活动-答辩",
-          title: '参赛照 2025年度大学生创业孵化园创业项目入驻遴选路演活动 答辩',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/%E5%8F%82%E8%B5%9B%E7%85%A7-2025%E5%B9%B4%E5%BA%A6%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E4%B8%9A%E5%AD%B5%E5%8C%96%E5%9B%AD%E5%88%9B%E4%B8%9A%E9%A1%B9%E7%9B%AE%E5%85%A5%E9%A9%BB%E9%81%B4%E9%80%89%E8%B7%AF%E6%BC%94%E6%B4%BB%E5%8A%A8-%E7%AD%94%E8%BE%A9/";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
