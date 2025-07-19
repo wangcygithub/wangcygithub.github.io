@@ -1,5 +1,6 @@
 <div class="col mb-4">
   {% if project.category == "photos" %}
+     <a href="{{ project.redirect }}">
   {% else %}
     <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
   {% endif %}
