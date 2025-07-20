@@ -20,15 +20,21 @@ nav_order: 11
     <div class="col">
         {% include figure.liquid path="assets/img/开会照-BIBM2024_4.jpg.jpg"%}
     </div>
-    <div class="col">
+  </div>
+  
+ <div class="row align-items-center"> 
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/开会照-BME2024_1.jpg"%}
     </div>
-    <div class="col">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/开会照-BME2024_2.jpg"%}
     </div>
-    <div class="col">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/开会照-BME2024_3.jpg"%}
     </div>
+  </div>
+  
+<div class="row row-cols-2">
     <div class="col">
         {% include figure.liquid path="assets/img/开会照-BME2024_4.jpg"%}
     </div>
@@ -50,9 +56,6 @@ nav_order: 11
     <div class="col">
         {% include figure.liquid path="assets/img/聚会照4.jpg"%}
     </div> 
-    <div class="col">
-        {% include figure.liquid path="assets/img/参赛照-2025年度大学生创业孵化园创业项目入驻遴选路演活动-主持.png" %}
-    </div>
     <div class="col">
         {% include figure.liquid path="assets/img/参赛照-2025年度大学生创业孵化园创业项目入驻遴选路演活动-答辩.png" %}
     </div>
