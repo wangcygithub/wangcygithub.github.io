@@ -24,10 +24,10 @@ nav_order: 11
   
  <div class="row align-items-center"> 
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/开会照-BME2024_1.jpg"%}
+        {% include figure.liquid path="assets/img/开会照-BME2024_2.jpg"%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/开会照-BME2024_2.jpg"%}
+        {% include figure.liquid path="assets/img/开会照-BME2024_1.jpg"%}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/开会照-BME2024_3.jpg"%}
