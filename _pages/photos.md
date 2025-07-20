@@ -7,8 +7,7 @@ nav: true
 nav_order: 11
 ---
 
- 
- <div class="row row-cols-2">=
+ <div class="row row-cols-2">
     <div class="col">
         {% include figure.liquid path="assets/img/开会照-BIBM2024_1.jpg"%}
     </div>
